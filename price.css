@@ -1,0 +1,72 @@
+body {
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
+}
+.logo{
+font-family: "Handjet", sans-serif;
+font-optical-sizing: auto;
+font-weight: bold;
+font-style: normal;
+font-variation-settings: 
+  "ELGR" 1,
+  "ELSH" 2;
+  color: gold;
+  font-size: 30px;
+  text-align: center;
+  background-color: chocolate;
+  border-radius: 200px;
+   
+}
+
+.mini{
+    background: #3E3939;
+    border-radius: 10px;
+    color: #FF7517;
+    
+
+}
+.individual{
+    background: #3E3939;
+    border-radius: 10px;
+    color: #FF7517;
+
+}
+.family{
+    background: #3E3939;
+    border-radius: 10px;
+    color: #FF7517;
+
+}
+.main{
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+align-items: center;    
+min-height: 90vh;  
+margin-top: 10px; /* Reduce the space between the button and the card */
+padding-top: 5px; /* Adjust padding if needed */    
+
+
+}
+.h1 , p {
+   
+    text-indent: 20px;
+      
+}
+.link{
+    
+    color: lime;
+    background: #2C2727;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    
+    
+    
+}
+ul{
+color: #F6F4F4;
+}
