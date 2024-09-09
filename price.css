@@ -4,22 +4,39 @@ body {
     font-weight: 300;
     font-style: normal;
     background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
-}
-.logo{
-font-family: "Handjet", sans-serif;
-font-optical-sizing: auto;
-font-weight: bold;
-font-style: normal;
-font-variation-settings: 
-  "ELGR" 1,
-  "ELSH" 2;
-  color: gold;
-  font-size: 30px;
-  text-align: center;
-  background-color: chocolate;
-  border-radius: 200px;
    
 }
+span {
+    font-family: "Handjet", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-variation-settings: 
+      "ELGR" 1,
+      "ELSH" 2;
+    color: gold;
+    font-size: 55px;
+    text-align: center;
+    background-color: chocolate;
+    border-radius: 100px;
+    padding: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    box-shadow: 25px 0px 25px rgba(255, 217, 0, 0.329), -25px 0px 25px rgba(255, 217, 0, 0.329) ;
+
+    
+}
+.logo {
+    text-align: center; /* Centers the span content */
+    
+}
+
+
+
+
 
 .mini{
     background: #3E3939;
@@ -68,8 +85,8 @@ padding-top: 5px; /* Adjust padding if needed */
 .link:hover{
     background-color: blue;
     color: wheat;
-    box-shadow: 40px 0px 100px rgba(0, 0, 255, 0.217) , -40px 0px 100px rgba(0, 0, 255, 0.297);
-    opacity: 10px;
+box-shadow: 40px 0px 100px rgba(0, 0, 255, 0.217) , -40px 0px 100px rgba(0, 0, 255, 0.297);
+opacity: 10px;
     
 
 }
