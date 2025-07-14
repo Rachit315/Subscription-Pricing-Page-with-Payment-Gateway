@@ -1,4 +1,4 @@
-# Subscription Pricing Page with Payment Gateway
+# Subscription Pricing Page
 
 This project is a **pure HTML and CSS** implementation of a subscription pricing page and payment gateway form. It allows users to select from three subscription tiers and enter their payment details.
 
